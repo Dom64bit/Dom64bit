@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dom64bit i'm going to school [I.T}
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pithon,java and php
+- 🌱 I’m currently learning java and php
 - 📫 How to reach me: lucaghir2@gmail.com
 - I Know C, C++, C#, Java, Php, Python, DOS, Html, Css, Js, Json, Xml, Dtd, Xsl
 
