@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Luca i'm going to school [I.T]
-- 👀 I like Coding and Fitness - Calisthenics
-- 🌱 I’m currently learning python
-- 📫 How to reach me: luca.ghir04@gmail.com
+
